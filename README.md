@@ -27,15 +27,20 @@ The Virtual File System (VFS) is a Python-based simulation of a traditional file
      ```bash
        cd Virtual-File-System
      ```
-3. **Install Dependencies**:
+3. **Virtual Environment Setup:**
+   
+    ```bash  
+         python -m venv venv
+         venv\Scripts\activate
+    ``` 
+5. **Install Dependencies**:<br>
 Install the required Python packages using pip:
 
      ```bash
      pip install -r requirements.txt
      ```
-4. **Usage**:
+6. **Usage**: <br>
 Run the Application:
-Execute the main application script:
 
      ```bash
        python vfs_app.py
