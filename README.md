@@ -33,9 +33,8 @@ Install the required Python packages using pip:
      ```bash
      pip install -r requirements.txt
      ```
-4. **Usage
+4. **Usage**:
 Run the Application:
-
 Execute the main application script:
 
      ```bash
