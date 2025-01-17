@@ -24,23 +24,23 @@ The Virtual File System (VFS) is a Python-based simulation of a traditional file
    ```
 2. **Navigate to the Project Directory**:
 
-  ```bash
-    cd Virtual-File-System
-  ```
+     ```bash
+       cd Virtual-File-System
+     ```
 3. **Install Dependencies**:
 Install the required Python packages using pip:
 
-  ```bash
-  pip install -r requirements.txt
-  ```
+     ```bash
+     pip install -r requirements.txt
+     ```
 4. **Usage
 Run the Application:
 
 Execute the main application script:
 
-  ```bash
-    python vfs_app.py
-  ```
+     ```bash
+       python vfs_app.py
+     ```
 ## Graphical User Interface:
 
 Once the application is running, you can use the following commands to interact with the VFS:
@@ -63,7 +63,7 @@ Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE]() file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Acknowledgements
 This project was inspired by the need to understand and simulate the workings of a traditional file system using Python. Special thanks to the open-source community for providing valuable resources and references.
